@@ -1,5 +1,7 @@
 # Lab 1 - *Show Factors*
 
+This program is created with NetBeans platform. Source codes are in the [src folder](/src).
+
 **Show Factors** is a programm in written in `Java` that shows all factors of a number.
     
     e.g. 100 = 5 * 5 * 2 *2
