@@ -1,4 +1,4 @@
-# Lab 1 - *Show Factors*
+# Show Prime Factors
 
 This program is created with NetBeans platform. Source codes are in the [src folder](/src).
 
